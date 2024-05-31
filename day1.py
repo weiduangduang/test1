@@ -215,3 +215,7 @@ txt = "     banana     "
 # print(list1)
 thislist = list({"apple", "banana", "cherry", 1}) # 请注意双括号
 print(thislist)
+thislist1 = list({"apple", "banana", "cherry", 1}) # 请注意双括号
+print(thislist1)
+thislist2 = list({"apple", "banana", "cherry", 1}) # 请注意双括号
+print(thislist2)
